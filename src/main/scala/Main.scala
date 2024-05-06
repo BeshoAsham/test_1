@@ -6,7 +6,7 @@ object Main {
 
     val combinedList: List[List[String]] = List(supplies, books)
 
-    combinedList.flatten.foreach(item => println(s"$item is required in the classroom."))
+    combinedList.flatten.foreach(item => println(s"$item martina."))
 
 
   }
